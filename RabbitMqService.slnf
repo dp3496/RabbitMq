@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "RabbitMqService.sln",
+    "projects": [
+      "RabbitMqConsumer\\RabbitMqConsumer.csproj",
+      "RabbitMqCore\\RabbitMqCore.csproj"
+    ]
+  }
+}
